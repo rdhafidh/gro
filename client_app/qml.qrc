@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pages/MainPage.qml</file>
+        <file>pages/PageLog.qml</file>
+        <file>pages/PageLogInner.qml</file>
+        <file>pages/ScrollablePage.qml</file>
+        <file>pages/TextAreaScroll.qml</file>
+        <file>images/ic_perm_media_black_48dp.png</file>
+        <file>pages/HelpPage.qml</file>
+        <file>pages/HelpPageInfo.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="skema.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-520.52308"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.67699998;fill:#93ac9d;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.24821225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="190.38638"
+       height="191.23628"
+       x="6.860384"
+       y="73.956902"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153" />
+    <g
+       id="g867"
+       transform="translate(-24.190476,143.63095)"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <path
+         d="M 92.212996,47.157734 A 30.602877,21.53145 0 0 1 61.611797,68.689184 30.602877,21.53145 0 0 1 31.007242,47.160096 30.602877,21.53145 0 0 1 61.605083,25.626284 30.602877,21.53145 0 0 1 92.212995,47.15301 l -30.602876,0.0047 z"
+         sodipodi:end="6.2829659"
+         sodipodi:start="0"
+         sodipodi:ry="21.53145"
+         sodipodi:rx="30.602877"
+         sodipodi:cy="47.157734"
+         sodipodi:cx="61.610119"
+         sodipodi:type="arc"
+         id="path825"
+         style="opacity:0.67699998;fill:#f2f2f2;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.13838722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.71975819,1.3893555)"
+         id="text829"
+         y="36.070835"
+         x="45.741009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.89805651px;line-height:4.11357069px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16454284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.16454284px"
+           y="36.070835"
+           x="45.741009"
+           id="tspan827"
+           sodipodi:role="line">grpc stream camera</tspan></text>
+    </g>
+    <g
+       id="g872"
+       transform="matrix(0.91370527,0,0,0.93014355,127.16626,50.239762)"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <path
+         style="opacity:0.67699998;fill:#f2f2f2;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.13838722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path831"
+         sodipodi:type="arc"
+         sodipodi:cx="-81.264877"
+         sodipodi:cy="102.34225"
+         sodipodi:rx="30.602877"
+         sodipodi:ry="21.53145"
+         sodipodi:start="0"
+         sodipodi:end="6.2829659"
+         d="m -50.662001,102.34225 a 30.602877,21.53145 0 0 1 -30.601198,21.53145 30.602877,21.53145 0 0 1 -30.604551,-21.52909 30.602877,21.53145 0 0 1 30.597837,-21.533813 30.602877,21.53145 0 0 1 30.607912,21.526723 l -30.602876,0.005 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.31069326px;line-height:3.80765247px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15230611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-166.10265"
+         y="70.153961"
+         id="text839"
+         transform="scale(0.66623118,1.5009805)"><tspan
+           sodipodi:role="line"
+           id="tspan837"
+           x="-166.10265"
+           y="70.153961"
+           style="stroke-width:0.15230611px">Qt UI Process Controller</tspan></text>
+    </g>
+    <g
+       id="g850"
+       transform="translate(130.02381,60.476191)"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <path
+         d="m -55.953665,179.44939 a 30.602877,21.53145 0 0 1 -30.601198,21.53145 30.602877,21.53145 0 0 1 -30.604557,-21.52909 30.602877,21.53145 0 0 1 30.597843,-21.53381 30.602877,21.53145 0 0 1 30.607911,21.52672 l -30.602875,0.005 z"
+         sodipodi:end="6.2829659"
+         sodipodi:start="0"
+         sodipodi:ry="21.53145"
+         sodipodi:rx="30.602877"
+         sodipodi:cy="179.44939"
+         sodipodi:cx="-86.556541"
+         sodipodi:type="arc"
+         id="path841"
+         style="opacity:0.67699998;fill:#f2f2f2;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.13838722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.71932773,1.3901869)"
+         id="text845"
+         y="131.21031"
+         x="-161.26135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.89333296px;line-height:4.11111021px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16444443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.16444443px"
+           y="131.21031"
+           x="-161.26135"
+           id="tspan843"
+           sodipodi:role="line">QML UI CLient GRPC</tspan></text>
+    </g>
+    <g
+       transform="translate(192.01191,59.720238)"
+       id="g880"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <path
+         style="opacity:0.67699998;fill:#f2f2f2;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.13838722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path874"
+         sodipodi:type="arc"
+         sodipodi:cx="-86.556541"
+         sodipodi:cy="179.44939"
+         sodipodi:rx="30.602877"
+         sodipodi:ry="21.53145"
+         sodipodi:start="0"
+         sodipodi:end="6.2829659"
+         d="m -55.953665,179.44939 a 30.602877,21.53145 0 0 1 -30.601198,21.53145 30.602877,21.53145 0 0 1 -30.604557,-21.52909 30.602877,21.53145 0 0 1 30.597843,-21.53381 30.602877,21.53145 0 0 1 30.607911,21.52672 l -30.602875,0.005 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.89333296px;line-height:4.11111021px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16444443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-161.26135"
+         y="131.21031"
+         id="text878"
+         transform="scale(0.71932773,1.3901869)"><tspan
+           sodipodi:role="line"
+           id="tspan876"
+           x="-161.26135"
+           y="131.21031"
+           style="stroke-width:0.16444443px">QML UI CLient GRPC</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:6.61458254px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-287.26193"
+       y="144.29762"
+       id="text890"><tspan
+         sodipodi:role="line"
+         id="tspan888"
+         x="-287.26193"
+         y="151.25401"
+         style="stroke-width:0.26458332px" /></text>
+    <g
+       id="g978"
+       transform="matrix(0.78972408,0,0,0.69621656,206.1247,59.859812)"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <rect
+         style="opacity:0.67699998;fill:#dae1dc;fill-opacity:0.89803922;stroke:#0c0c0c;stroke-width:0.10829052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect918"
+         width="114.90846"
+         height="52.164425"
+         x="-170.09114"
+         y="27.879089" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.53437901px;line-height:5.48665476px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21946621px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-186.09737"
+         y="38.841827"
+         id="text934"
+         transform="scale(0.8846541,1.1303853)"><tspan
+           sodipodi:role="line"
+           x="-186.09737"
+           y="38.841827"
+           style="stroke-width:0.21946621px"
+           id="tspan932">Interaktif Antar muka</tspan><tspan
+           id="tspan963"
+           sodipodi:role="line"
+           x="-186.09737"
+           y="44.328484"
+           style="stroke-width:0.21946621px" /><tspan
+           id="tspan965"
+           sodipodi:role="line"
+           x="-186.09737"
+           y="49.815136"
+           style="stroke-width:0.21946621px">via single process </tspan><tspan
+           id="tspan967"
+           sodipodi:role="line"
+           x="-186.09737"
+           y="55.301792"
+           style="stroke-width:0.21946621px" /><tspan
+           id="tspan969"
+           sodipodi:role="line"
+           x="-186.09737"
+           y="60.788445"
+           style="stroke-width:0.21946621px">controller server</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.041666,210.06547 -0.755951,9.82738"
+       id="path1010"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 56.696427,202.50595 31.749999,19.65476"
+       id="path1012"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153" />
+    <g
+       id="g1020"
+       transform="translate(230.56548,17.386905)"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153">
+      <path
+         d="m -55.953665,179.44939 a 30.602877,21.53145 0 0 1 -30.601198,21.53145 30.602877,21.53145 0 0 1 -30.604557,-21.52909 30.602877,21.53145 0 0 1 30.597843,-21.53381 30.602877,21.53145 0 0 1 30.607911,21.52672 l -30.602875,0.005 z"
+         sodipodi:end="6.2829659"
+         sodipodi:start="0"
+         sodipodi:ry="21.53145"
+         sodipodi:rx="30.602877"
+         sodipodi:cy="179.44939"
+         sodipodi:cx="-86.556541"
+         sodipodi:type="arc"
+         id="path1014"
+         style="opacity:0.67699998;fill:#f2f2f2;fill-opacity:1;stroke:#0c0c0c;stroke-width:0.13838722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.71932773,1.3901869)"
+         id="text1018"
+         y="131.21031"
+         x="-161.26135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.89333296px;line-height:4.11111021px;font-family:'MS Reference Sans Serif';-inkscape-font-specification:'MS Reference Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16444443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.16444443px"
+           y="131.21031"
+           x="-161.26135"
+           id="tspan1016"
+           sodipodi:role="line">QML UI CLient GRPC</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.767857,188.89881 49.892853,1.5119"
+       id="path1022"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.065475,162.44048 -3.023809,11.33928"
+       id="path1525"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.666666,112.54762 -21.166667,15.875"
+       id="path1527"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

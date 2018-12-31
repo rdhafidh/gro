@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+
+package ImageProto;
+
+service ImageLogging{
+    rpc AskImage(ImageRequest) returns (ImageResponse){}
+}
+
+message ImageRequest{
+}
+
+message ImageResponse{
+    enum EnumResponse{
+        RESPONSE_UNSPECIFIED=0;
+        RESPONSE_OK=1;
+        RESPONSE_CAMERA_NOT_FOUND=2;
+        RESPONSE_ERROR=3;
+    }
+    EnumResponse restype=1;
+    bytes data=2; 
+}
